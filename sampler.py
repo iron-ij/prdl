@@ -5,9 +5,9 @@ from pathlib import Path
 import subprocess
 import time
 
-def execute_script(file_path, rate, target='corpus', replace='sample'):
-    """get sample from text file using shell
-    """
+
+def execute_script(file_path, rate, target="corpus", replace="sample"):
+    """get sample from text file using shell"""
     if isinstance(file_path, str):
         file_path = str(file_path)
 
