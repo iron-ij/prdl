@@ -1,0 +1,4 @@
+corpora: 'corpus'
+output_path: 'sample'
+
+use_morph: True

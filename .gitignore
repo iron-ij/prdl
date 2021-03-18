@@ -150,5 +150,11 @@ sample/*.*
 .vscode
 .DS_Store
 
+# dummy file
+dummy
+
+# trained json
+*.json
+
 test*.py
 # End of https://www.toptal.com/developers/gitignore/api/python
